@@ -1,4 +1,4 @@
-package com.kartasiewicz.comments.Post;
+package com.kartasiewicz.comments.Comment;
 
 import com.kartasiewicz.comments.exceptions.IllegalParameterException;
 import org.slf4j.Logger;

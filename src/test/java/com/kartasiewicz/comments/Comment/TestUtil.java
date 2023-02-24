@@ -1,4 +1,4 @@
-package com.kartasiewicz.comments.Post;
+package com.kartasiewicz.comments.Comment;
 
 import reactor.core.publisher.Flux;
 

@@ -1,4 +1,4 @@
-package com.kartasiewicz.comments.Post;
+package com.kartasiewicz.comments.Comment;
 
 import com.kartasiewicz.comments.exceptions.IllegalParameterException;
 import org.junit.Test;
@@ -11,7 +11,7 @@ import org.mockito.junit.MockitoJUnitRunner;
 import org.springframework.http.ResponseEntity;
 import reactor.core.publisher.Flux;
 
-import static com.kartasiewicz.comments.Post.TestUtil.*;
+import static com.kartasiewicz.comments.Comment.TestUtil.*;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 import static org.mockito.ArgumentMatchers.anyInt;
 import static org.mockito.ArgumentMatchers.isNull;

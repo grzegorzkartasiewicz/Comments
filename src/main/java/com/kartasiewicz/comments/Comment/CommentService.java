@@ -1,4 +1,4 @@
-package com.kartasiewicz.comments.Post;
+package com.kartasiewicz.comments.Comment;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

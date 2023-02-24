@@ -1,4 +1,4 @@
-package com.kartasiewicz.comments.Post;
+package com.kartasiewicz.comments.Comment;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
